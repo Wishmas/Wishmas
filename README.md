@@ -15,7 +15,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original-wordmark.svg" title="PD" alt="PD" width="50" height="50"/>&nbsp; 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PGS" alt="PGS" width="50" height="50"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" title="BI" alt="BI" width="50" height="50"/>&nbsp;
-  <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/clickhouse-imj6q65skkv08py7qqt5.png/clickhouse-j9tjxvlu1jbtx3pxmah7i.png?_a=DATAg1AAZAA0" title="Clickhouse" alt="CH" width="70" height="50"/>&nbsp;  
+  <img src="https://datadecoded.com/wp-content/uploads/2025/07/clickhouse-architecture-1024x307.png" title="Clickhouse" alt="CH" width="70" height="50"/>&nbsp;  
   <img src="https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/1/apache-superset-icon-cyc19fiufldpekdt6c7jg.png/apache-superset-icon-80ygkwbe76iyhvftejjahm.png?_a=DATAg1AAZAA0" title="SS" alt="EX" width="50" height="50"/>&nbsp;  
 </div>
 
